@@ -37,3 +37,5 @@ javascript-calculator/
 **Hasnain Riaz**
 
 GitHub: [HasnainRiaz786](https://github.com/HasnainRiaz786)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8dcb995-5981-4846-9035-3890d5fece5d" />
+
